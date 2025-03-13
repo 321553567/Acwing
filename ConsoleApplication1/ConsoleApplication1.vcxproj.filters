@@ -16,6 +16,9 @@
     <Filter Include="源文件\练习">
       <UniqueIdentifier>{9008838a-f8dd-45f9-9e19-e5ddb864b2d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\CCF-CSP">
+      <UniqueIdentifier>{5f517124-d521-4215-903f-7894a23d4429}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="指针.cpp">
@@ -23,6 +26,12 @@
     </ClCompile>
     <ClCompile Include="快速排序.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32-1.cpp">
+      <Filter>源文件\CCF-CSP</Filter>
+    </ClCompile>
+    <ClCompile Include="32-2.cpp">
+      <Filter>源文件\CCF-CSP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
